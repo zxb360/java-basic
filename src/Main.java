@@ -19,6 +19,7 @@ public class Main {
     String[] arrayDeString = new String[2];
     arrayDeString[0] = "Esse valor";
     arrayDeString[1] = "Somado com ";
+    arrayDeString[2] = "Somado com tudo";
 
     soma = arrayDeNumber[0] + arrayDeNumber[3];
     System.out.println(vamos + arrayDeNumber[3] + arrayDeNumber[1] + arrayDeString[1] + soma);
