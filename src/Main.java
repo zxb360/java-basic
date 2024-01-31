@@ -29,7 +29,7 @@ public class Main {
 
     int[] numberes = {1, 4, 6, 9};
 
-    int[][] matriz = {{1, 3}, {2, 9}};
+    int[][] matriz = {{1, 3}, {2, 9}, {23, 33}, {1}, {55}};
 
     System.out.println(testChaves[0]);
     System.out.println(numberes[1]);
